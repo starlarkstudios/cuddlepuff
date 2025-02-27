@@ -2,4 +2,4 @@ build:
     pnpm run build
 
 dev:
-    pnpm run dev
+    cd apps/web && pnpm run dev
