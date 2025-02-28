@@ -1,6 +1,7 @@
 {
   "name": "cuddlepuff",
-  "version": "0.0.1",
+  "private": true,
+  "version": "2025.02.28",
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev"
