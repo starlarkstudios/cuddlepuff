@@ -4,7 +4,7 @@
   "version": "2025.02.28",
   "scripts": {
     "build": "turbo build",
-    "dev": "turbo dev"
+    "dev": "cd apps/web && pnpm run dev"
   },
   "engines": {
     "node": ">=18"
