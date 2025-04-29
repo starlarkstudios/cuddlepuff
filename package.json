@@ -10,7 +10,7 @@
     "node": ">=18"
   },
   "devDependencies": {
-    "@turbo/gen": "^2.5.0",
+    "@turbo/gen": "^2.5.2",
     "@types/node": "^22.13.14",
     "turbo": "^2.5.0",
     "typescript": "^5.8.3"
